@@ -329,7 +329,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -844,6 +844,14 @@ PrefabInstance:
       value: Floor (5)
       objectReference: {fileID: 0}
     - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 0}
@@ -1344,7 +1352,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -1718,7 +1726,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -2113,7 +2121,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -2353,7 +2361,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -2434,6 +2442,14 @@ PrefabInstance:
     - target: {fileID: 3779689844245140840, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_Name
       value: Floor (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
       objectReference: {fileID: 0}
     - target: {fileID: 5501632272992791464, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_RootOrder
@@ -2557,6 +2573,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
+      objectReference: {fileID: 0}
     - target: {fileID: 5501632272992791464, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -2621,6 +2645,14 @@ PrefabInstance:
     - target: {fileID: 3779689844245140840, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_Name
       value: Floor (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
       objectReference: {fileID: 0}
     - target: {fileID: 5501632272992791464, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_RootOrder
@@ -2982,6 +3014,14 @@ PrefabInstance:
     - target: {fileID: 3779689844245140840, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_Name
       value: Floor
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
       objectReference: {fileID: 0}
     - target: {fileID: 5501632272992791464, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_RootOrder
@@ -3622,6 +3662,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 202364692, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_ModelPrefab
+      value: 
+      objectReference: {fileID: 2012454744358855800, guid: 820280a7a7d593e43a6a724a654c4ac9, type: 3}
+    - target: {fileID: 1670256628, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
+      propertyPath: m_ModelPrefab
+      value: 
+      objectReference: {fileID: 5581692558364277938, guid: 233d735817dff43da9b78129b58d66fb, type: 3}
     - target: {fileID: 1717954561962503725, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_Name
       value: XR Origin (XR Rig)
@@ -4698,6 +4746,14 @@ PrefabInstance:
     - target: {fileID: 3779689844245140840, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_Name
       value: Floor (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
       objectReference: {fileID: 0}
     - target: {fileID: 5501632272992791464, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_RootOrder
@@ -6733,7 +6789,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -7797,7 +7853,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -8349,7 +8405,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -8607,7 +8663,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -8931,6 +8987,14 @@ PrefabInstance:
     - target: {fileID: 3779689844245140840, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_Name
       value: Floor (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
       objectReference: {fileID: 0}
     - target: {fileID: 5501632272992791464, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_RootOrder
@@ -9414,7 +9478,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -9635,6 +9699,14 @@ PrefabInstance:
     - target: {fileID: 3779689844245140840, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_Name
       value: Floor (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
       objectReference: {fileID: 0}
     - target: {fileID: 5501632272992791464, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_RootOrder
@@ -10405,7 +10477,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -10668,6 +10740,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Floor (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Size.y
+      value: 0.09108335
+      objectReference: {fileID: 0}
+    - target: {fileID: 5441368543274690783, guid: 46e0569259d9546089b904235580c58b, type: 3}
+      propertyPath: m_Center.y
+      value: -0.06043661
+      objectReference: {fileID: 0}
     - target: {fileID: 5501632272992791464, guid: 46e0569259d9546089b904235580c58b, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -10837,7 +10917,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
@@ -11409,7 +11489,7 @@ MonoBehaviour:
   m_SnapToColliderVolume: 1
   m_ReinitializeDynamicAttachEverySingleGrab: 1
   m_AttachEaseInTime: 0.15
-  m_MovementType: 2
+  m_MovementType: 0
   m_VelocityDamping: 1
   m_VelocityScale: 1
   m_AngularVelocityDamping: 1
