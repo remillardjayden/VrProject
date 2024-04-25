@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Puzzle Creation.unity
+    guid: 050cbdfd2a6f1374c8adeffc2ac3038e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 97f152283db4e6b4fb74299102b4a2d2, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3989a695e6eb88b4595d9e7ad120aa31, type: 2}
